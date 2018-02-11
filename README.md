@@ -34,12 +34,12 @@ User notes is a CRUD app with authentication built with AngularJS, Javascript, F
   }
 }
 ```
-5. Run Https-server with 
+5. Run Https-server in the terminal by typing: 
 ```  
 hs 
 ```
 
-6. Open browser with 
+6. Open browser and type: 
 ``` 
 http://localhost:8080 
 ```
