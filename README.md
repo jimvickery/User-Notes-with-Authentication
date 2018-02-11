@@ -13,7 +13,9 @@ User notes is a CRUD app with authentication built with AngularJS, Javascript, F
 
 ## Deployment Instructions;
 
+```
 1. Clone Project
+```
 
 2. Create FBCreds file with firebase credentials setting the search index to
 
@@ -32,8 +34,14 @@ User notes is a CRUD app with authentication built with AngularJS, Javascript, F
   }
 }
 ```
-5. Run Https-server with ```  hs ```
+5. Run Https-server with 
+```  
+hs 
+```
 
-6. Open browser with ``` http://localhost:8080 ```
+6. Open browser with 
+``` 
+http://localhost:8080 
+```
 
 7. Register and Login then start submitting messages.
