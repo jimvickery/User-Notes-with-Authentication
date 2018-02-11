@@ -1,10 +1,14 @@
 # User-Notes-with-Authentication
 
+User notes is a CRUD app with authentication built with AngularJS, Javascript, Firebase and Grunt.
+
+## Requirements: AngularJS, Grunt, https-server.
+
 ![Alt text](usernotes1.png?raw=true "Title")
 
 ![Alt text](usernotes2.png?raw=true "Title")
 
-## Requirements: AngularJS, Grunt, https-server.
+
 
 ## Deployment Instructions;
 
