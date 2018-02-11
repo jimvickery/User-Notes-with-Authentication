@@ -1,5 +1,12 @@
 # User-Notes-with-Authentication
-Requirements
+
+![Alt text](usernotes1.png?raw=true "Title")
+
+![Alt text](usernotes2.png?raw=true "Title")
+
+## Requirements: AngularJS, Grunt, https-server.
+
+## Deployment Instructions;
 
 1. Clone Project
 
@@ -18,5 +25,8 @@ Requirements
     
   }
 }
+5. Run Https-server with $ hs
 
-5. Then Login then start submitting messages
+6. Open browser with $ http://localhost:8080
+
+7. Register and Login then start submitting messages.
