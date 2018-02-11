@@ -30,8 +30,8 @@ User notes is a CRUD app with authentication built with AngularJS, Javascript, F
     
   }
 }
-5. Run Https-server with ```dif  hs ```
+5. Run Https-server with ```  hs ```
 
-6. Open browser with ```dif http://localhost:8080 ```
+6. Open browser with ``` http://localhost:8080 ```
 
 7. Register and Login then start submitting messages.
