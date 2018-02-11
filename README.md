@@ -20,6 +20,7 @@ User notes is a CRUD app with authentication built with AngularJS, Javascript, F
 3. CD into lib folder and run npm install
 
 4. Set Up Firebase with the following rules:
+```
 {
   "rules": {
     ".read": "true",
@@ -30,6 +31,7 @@ User notes is a CRUD app with authentication built with AngularJS, Javascript, F
     
   }
 }
+```
 5. Run Https-server with ```  hs ```
 
 6. Open browser with ``` http://localhost:8080 ```
