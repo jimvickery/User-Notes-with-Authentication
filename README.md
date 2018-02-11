@@ -19,7 +19,10 @@ User notes is a CRUD app with authentication built with AngularJS, Javascript, F
 
 2. Create FBCreds file with firebase credentials setting the search index to
 
-3. CD into lib folder and run npm install
+3. CD into lib folder and in the terminal type:
+```
+ npm install
+ ```
 
 4. Set Up Firebase with the following rules:
 ```
