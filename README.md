@@ -34,7 +34,7 @@ User notes is a CRUD app with authentication built with AngularJS, Javascript, F
   }
 }
 ```
-5. Run Https-server in the terminal by typing: 
+5. Start Https-server in the terminal by typing: 
 ```  
 hs 
 ```
